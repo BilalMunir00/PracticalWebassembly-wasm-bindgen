@@ -1,0 +1,16 @@
+{
+  "name": "live_reload_parcel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "build": "parcel build index.html",
+    "serve": "parcel serve index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "latest"
+  }
+}
